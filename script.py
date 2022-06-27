@@ -21,7 +21,7 @@ def create_file(file_name, url):
     
     response_api = requests.get(url, headers={'Authorization': f"Bearer {TOKEN}"}).json()
         
-    return json.dump(response_api, open(f"./realite/now/{file_name}.json", "w", encoding='utf8'), indent=3, ensure_ascii=False)
+    return json.dump(response_api, open(f"./data/new/{file_name}.json", "w", encoding='utf8'), indent=3, ensure_ascii=False)
 
 
 if __name__ == "__main__":

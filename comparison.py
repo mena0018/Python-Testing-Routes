@@ -14,7 +14,7 @@ def get_diff_files(paths):
 
 def get_diff_details(list_file): 
     for file_name in list_file:
-        with open(f'./realite/26_Juin_10h/{file_name}') as file_1, open(f'./realite/now/{file_name}') as file_2:
+        with open(f'./data/old/{file_name}') as file_1, open(f'./data/new/{file_name}') as file_2:
             
             differ = Differ()
             
@@ -28,5 +28,5 @@ def get_diff_details(list_file):
         
         
                     
-list_files = get_diff_files(filecmp.dircmp('./realite/26_Juin_10h/', './realite/now/'))                   
+list_files = get_diff_files(filecmp.dircmp('./data/old/', './data/new/'))                   
 get_diff_details(list_files)
