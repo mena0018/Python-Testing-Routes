@@ -1,0 +1,105 @@
+{
+   "1970-01-01": {
+      "zones": [
+         {
+            "id": 19654,
+            "name": "Univers Junior Gauche",
+            "flags": 0,
+            "type": 0,
+            "box": 426,
+            "currentZonePassage": 0,
+            "timeInZone": 0,
+            "currentStopCount": 0,
+            "stopsDurationInZone": 0
+         },
+         {
+            "id": 19655,
+            "name": "Caisse",
+            "flags": 1,
+            "type": 0,
+            "box": 426,
+            "currentZonePassage": 0,
+            "timeInZone": 0,
+            "currentStopCount": 0,
+            "stopsDurationInZone": 0
+         },
+         {
+            "id": 19656,
+            "name": "Univers Enfant",
+            "flags": 0,
+            "type": 0,
+            "box": 426,
+            "currentZonePassage": 0,
+            "timeInZone": 0,
+            "currentStopCount": 0,
+            "stopsDurationInZone": 0
+         },
+         {
+            "id": 19657,
+            "name": "Univers Homme",
+            "flags": 0,
+            "type": 0,
+            "box": 426,
+            "currentZonePassage": 0,
+            "timeInZone": 0,
+            "currentStopCount": 0,
+            "stopsDurationInZone": 0
+         },
+         {
+            "id": 19659,
+            "name": "Table Enfant",
+            "flags": 0,
+            "type": 0,
+            "box": 426,
+            "currentZonePassage": 0,
+            "timeInZone": 0,
+            "currentStopCount": 0,
+            "stopsDurationInZone": 0
+         },
+         {
+            "id": 19660,
+            "name": "Univers Femme",
+            "flags": 0,
+            "type": 0,
+            "box": 426,
+            "currentZonePassage": 0,
+            "timeInZone": 0,
+            "currentStopCount": 0,
+            "stopsDurationInZone": 0
+         },
+         {
+            "id": 19661,
+            "name": "Table Femme",
+            "flags": 0,
+            "type": 0,
+            "box": 426,
+            "currentZonePassage": 0,
+            "timeInZone": 0,
+            "currentStopCount": 0,
+            "stopsDurationInZone": 0
+         },
+         {
+            "id": 19662,
+            "name": "Univers Junior Droit",
+            "flags": 0,
+            "type": 0,
+            "box": 426,
+            "currentZonePassage": 0,
+            "timeInZone": 0,
+            "currentStopCount": 0,
+            "stopsDurationInZone": 0
+         },
+         {
+            "id": 19874,
+            "name": "MAP",
+            "flags": 5,
+            "type": 0,
+            "box": 426,
+            "currentZonePassage": 0,
+            "timeInZone": 0,
+            "currentStopCount": 0,
+            "stopsDurationInZone": 0
+         }
+      ]
+   }
+}
